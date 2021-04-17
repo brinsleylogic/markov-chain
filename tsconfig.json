@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "incremental": true,
+    "target": "es5",
+    "module": "commonjs",
+    "declaration": true,
+    // "declarationMap": true,
+    "outDir": "./dist",
+
+    /* Strict Type-Checking Options */
+    "strict": true,
+    "strictPropertyInitialization": false,
+    "noImplicitAny": true,
+    "noImplicitThis": true,
+
+    /* Additional Checks */
+    "noUnusedLocals": true,
+    "noUnusedParameters": true
+  }
+}

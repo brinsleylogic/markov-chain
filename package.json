@@ -1,0 +1,22 @@
+{
+  "name": "markov-chain",
+  "version": "1.0.0",
+  "description": "A Markov Chain implementation written in TypeScript, with the intention of being somewhat extensible.",
+  "author": "Brinsley Blackwood <brinsleylogic@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brinsleylogic/markov-chain.git"
+  },
+  "bugs": {
+    "url": "https://github.com/brinsleylogic/markov-chain/issues"
+  },
+  "keywords": [
+    "markov",
+    "chain",
+    "generator"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}
