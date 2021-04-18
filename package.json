@@ -1,5 +1,5 @@
 {
-  "name": "markov-chain",
+  "name": "@brinsleylogic/markov-chain",
   "version": "1.0.0",
   "description": "A Markov Chain implementation written in TypeScript, with the intention of being somewhat extensible.",
   "author": "Brinsley Blackwood <brinsleylogic@gmail.com>",
