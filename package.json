@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "A Markov Chain implementation written in TypeScript, with the intention of being somewhat extensible.",
   "author": "Brinsley Blackwood <brinsleylogic@gmail.com>",
+  "main": "dist/index.js",
+  "exports": {
+    "./WordProcessor": "./processor/WordProcessor"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/brinsleylogic/markov-chain.git"
